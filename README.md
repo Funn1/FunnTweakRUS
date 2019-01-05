@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Приветствую на странице репозитория FunnTweakRUS
 
 You can use the [editor on GitHub](https://github.com/Funn1/funntweakrus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
